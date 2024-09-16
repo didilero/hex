@@ -1,0 +1,14 @@
+/* JavaFX CSS - Leave this comment until you have at least create one rule which uses -fx-Property */
+*{
+	-fx-base: #424242;
+}
+
+.first-button{
+	-fx-shape: "M86.60254037844386 0L173.20508075688772 50L173.20508075688772 150L86.60254037844386 200L0 150L0 50Z";
+	-fx-background-color: #ffffff;
+	-fx-border-color: black;
+    -fx-border-width: 2;
+}
+.second-button{
+	
+}
